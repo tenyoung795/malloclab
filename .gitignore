@@ -1,0 +1,7 @@
+*~
+*.stackdump
+*.exe
+*.out
+*.swp
+*.o
+
