@@ -4,4 +4,6 @@
 *.out
 *.swp
 *.o
+mm.c
+mdriver
 
